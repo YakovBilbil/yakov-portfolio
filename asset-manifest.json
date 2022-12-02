@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yakov-portfolio/static/css/main.c4eed644.chunk.css",
-    "main.js": "/yakov-portfolio/static/js/main.e085695e.chunk.js",
-    "main.js.map": "/yakov-portfolio/static/js/main.e085695e.chunk.js.map",
+    "main.js": "/yakov-portfolio/static/js/main.52cb5c46.chunk.js",
+    "main.js.map": "/yakov-portfolio/static/js/main.52cb5c46.chunk.js.map",
     "runtime-main.js": "/yakov-portfolio/static/js/runtime-main.06e16e82.js",
     "runtime-main.js.map": "/yakov-portfolio/static/js/runtime-main.06e16e82.js.map",
     "static/css/2.ee9b4178.chunk.css": "/yakov-portfolio/static/css/2.ee9b4178.chunk.css",
@@ -131,7 +131,7 @@
     "static/media/react.c3a0b34a.svg": "/yakov-portfolio/static/media/react.c3a0b34a.svg",
     "static/media/redTheme-boy.74f6dfaa.svg": "/yakov-portfolio/static/media/redTheme-boy.74f6dfaa.svg",
     "static/media/redTheme-girl.e2b9dd83.svg": "/yakov-portfolio/static/media/redTheme-girl.e2b9dd83.svg",
-    "static/media/resume.3df90934.pdf": "/yakov-portfolio/static/media/resume.3df90934.pdf",
+    "static/media/resume.fb3cad9a.pdf": "/yakov-portfolio/static/media/resume.fb3cad9a.pdf",
     "static/media/ruby.775cc228.svg": "/yakov-portfolio/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/yakov-portfolio/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/yakov-portfolio/static/media/seven.d5cabb8e.svg",
@@ -161,6 +161,6 @@
     "static/css/2.ee9b4178.chunk.css",
     "static/js/2.852c2d8f.chunk.js",
     "static/css/main.c4eed644.chunk.css",
-    "static/js/main.e085695e.chunk.js"
+    "static/js/main.52cb5c46.chunk.js"
   ]
 }
