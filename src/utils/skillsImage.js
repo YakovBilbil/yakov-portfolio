@@ -74,6 +74,8 @@ import unity from "../assets/svg/skills/unity.svg";
 import wolframalpha from "../assets/svg/skills/wolframalpha.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
+import express from "../assets/svg/skills/express-js-icon.svg";
+import nodejs from "../assets/svg/skills/nodejs-1-logo-svg-vector.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -226,6 +228,10 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "express":
+      return express;
+    case "nodejs":
+      return nodejs;
     default:
       break;
   }

@@ -1,12 +1,14 @@
 export const skillsData = [
   "HTML",
-  "Javascript",
   "CSS",
-  "React",
-  "Django",
+  "Javascript",
   "MongoDB",
-  "MySQL",
-  "Python",
+  "Express",
+  "React",
+  "NodeJS",
+  "Git",
+  "Figma",
+  "Nginx",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -93,4 +95,6 @@ export const skillsData = [
     Tensorflow
     Webex
     Wordpress
+    express
+    nodejs
 */
